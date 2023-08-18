@@ -1,0 +1,15 @@
+C:\Users\ashpu\OneDrive\Рабочий стол\.Net\8.6\8.6\Task8.6\Task2_8.6\bin\Debug\net7.0\Task2_8.6.exe
+C:\Users\ashpu\OneDrive\Рабочий стол\.Net\8.6\8.6\Task8.6\Task2_8.6\bin\Debug\net7.0\Task2_8.6.deps.json
+C:\Users\ashpu\OneDrive\Рабочий стол\.Net\8.6\8.6\Task8.6\Task2_8.6\bin\Debug\net7.0\Task2_8.6.runtimeconfig.json
+C:\Users\ashpu\OneDrive\Рабочий стол\.Net\8.6\8.6\Task8.6\Task2_8.6\bin\Debug\net7.0\Task2_8.6.dll
+C:\Users\ashpu\OneDrive\Рабочий стол\.Net\8.6\8.6\Task8.6\Task2_8.6\bin\Debug\net7.0\Task2_8.6.pdb
+C:\Users\ashpu\OneDrive\Рабочий стол\.Net\8.6\8.6\Task8.6\Task2_8.6\obj\Debug\net7.0\Task2_8.6.csproj.AssemblyReference.cache
+C:\Users\ashpu\OneDrive\Рабочий стол\.Net\8.6\8.6\Task8.6\Task2_8.6\obj\Debug\net7.0\Task2_8.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashpu\OneDrive\Рабочий стол\.Net\8.6\8.6\Task8.6\Task2_8.6\obj\Debug\net7.0\Task2_8.6.AssemblyInfoInputs.cache
+C:\Users\ashpu\OneDrive\Рабочий стол\.Net\8.6\8.6\Task8.6\Task2_8.6\obj\Debug\net7.0\Task2_8.6.AssemblyInfo.cs
+C:\Users\ashpu\OneDrive\Рабочий стол\.Net\8.6\8.6\Task8.6\Task2_8.6\obj\Debug\net7.0\Task2_8.6.csproj.CoreCompileInputs.cache
+C:\Users\ashpu\OneDrive\Рабочий стол\.Net\8.6\8.6\Task8.6\Task2_8.6\obj\Debug\net7.0\Task2_8.6.dll
+C:\Users\ashpu\OneDrive\Рабочий стол\.Net\8.6\8.6\Task8.6\Task2_8.6\obj\Debug\net7.0\refint\Task2_8.6.dll
+C:\Users\ashpu\OneDrive\Рабочий стол\.Net\8.6\8.6\Task8.6\Task2_8.6\obj\Debug\net7.0\Task2_8.6.pdb
+C:\Users\ashpu\OneDrive\Рабочий стол\.Net\8.6\8.6\Task8.6\Task2_8.6\obj\Debug\net7.0\Task2_8.6.genruntimeconfig.cache
+C:\Users\ashpu\OneDrive\Рабочий стол\.Net\8.6\8.6\Task8.6\Task2_8.6\obj\Debug\net7.0\ref\Task2_8.6.dll
