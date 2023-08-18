@@ -13,3 +13,5 @@ C:\Users\ashpu\OneDrive\Рабочий стол\.Net\8.6\8.6\Task8.6\Task2_8.6\o
 C:\Users\ashpu\OneDrive\Рабочий стол\.Net\8.6\8.6\Task8.6\Task2_8.6\obj\Debug\net7.0\Task2_8.6.pdb
 C:\Users\ashpu\OneDrive\Рабочий стол\.Net\8.6\8.6\Task8.6\Task2_8.6\obj\Debug\net7.0\Task2_8.6.genruntimeconfig.cache
 C:\Users\ashpu\OneDrive\Рабочий стол\.Net\8.6\8.6\Task8.6\Task2_8.6\obj\Debug\net7.0\ref\Task2_8.6.dll
+C:\Users\ashpu\OneDrive\Рабочий стол\.Net\8.6\8.6\Task8.6\Task2_8.6\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\ashpu\OneDrive\Рабочий стол\.Net\8.6\8.6\Task8.6\Task2_8.6\obj\Debug\net7.0\Task2_8.6.csproj.CopyComplete
