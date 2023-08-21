@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Contact xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FullName>Stas</FullName>
+  <Street>none</Street>
+  <HouseNumber>1</HouseNumber>
+  <FlatNumber>1</FlatNumber>
+  <MobilePhoneNumber>1</MobilePhoneNumber>
+  <HomePhoneNumber>1</HomePhoneNumber>
+</Contact>
